@@ -2535,7 +2535,7 @@
           "value": "2"
         },
         "VMPercentMemoryWindowSize": {
-          "value": "PT25M"
+          "value": "PT30M"
         },
         "VMPercentMemoryEvaluationFrequency": {
           "value": "PT5M"
