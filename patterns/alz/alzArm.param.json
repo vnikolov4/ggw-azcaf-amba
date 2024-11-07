@@ -48,7 +48,7 @@
       "value": "No"
     },
     "enableAMBARecoveryServices": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAStorage": {
       "value": "No"
