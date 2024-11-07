@@ -2499,7 +2499,7 @@
           "value": "2"
         },
         "VMPercentCPUWindowSize": {
-          "value": "PT25M"
+          "value": "PT30M"
         },
         "VMPercentCPUEvaluationFrequency": {
           "value": "PT5M"
